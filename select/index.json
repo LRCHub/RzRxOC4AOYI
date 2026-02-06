@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "窓辺",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-06T11:51:12.626094Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "Ayano Kaneko",
+      "has_synced": false,
+      "path": "select/01_窓辺_Ayano_Kaneko.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/02_窓辺_カネコアヤノ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "Kaneko Ayano",
+      "has_synced": false,
+      "path": "select/03_窓辺_Kaneko_Ayano.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/04_窓辺_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "Junko Yagami",
+      "has_synced": true,
+      "path": "select/05_窓辺_Junko_Yagami.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "Junko Yagami (八神純子)",
+      "has_synced": true,
+      "path": "select/06_窓辺_Junko_Yagami_(八神純子).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/07_窓辺_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "八神純子",
+      "has_synced": true,
+      "path": "select/08_窓辺_八神純子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/09_窓辺_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "八神純子",
+      "has_synced": true,
+      "path": "select/10_窓辺_八神純子.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "土岐麻子",
+      "has_synced": true,
+      "path": "select/11_窓辺_土岐麻子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "窓辺",
+      "artist": "Asako Toki",
+      "has_synced": true,
+      "path": "select/12_窓辺_Asako_Toki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "窓辺",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_窓辺_カネコアヤノ.txt"
+    }
+  ]
+}
